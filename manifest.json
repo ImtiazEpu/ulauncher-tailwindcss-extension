@@ -1,0 +1,19 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Ulauncher Tailwind CSS Extension",
+    "description": "Ulauncher extension for quick access to the Tailwind CSS documentation.",
+    "developer_name": "Imtiaz Epu",
+    "icon": "icons/tailwindcss.svg",
+    "options": {
+      "query_debounce": 0.05
+    },
+    "preferences": [
+      {
+        "id": "tw_kw",
+        "type": "keyword",
+        "name": "Tailwind CSS Search",
+        "description": "Type in your query and press Enter...",
+        "default_value": "tw"
+      }
+    ]
+  }
