@@ -1,6 +1,6 @@
 {
     "required_api_version": "^2.0.0",
-    "name": "Ulauncher Tailwind CSS Extension",
+    "name": "Tailwind CSS",
     "description": "Ulauncher extension for quick access to the Tailwind CSS documentation.",
     "developer_name": "Imtiaz Epu",
     "icon": "icons/tailwindcss.svg",
