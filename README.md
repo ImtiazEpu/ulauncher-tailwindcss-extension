@@ -1,11 +1,12 @@
-<p align="center ">
-  <img src="https://github.com/ImtiazEpu/ulauncher-tailwindcss-extension/blob/master/icons/tailwindcss-logo.svg" alt="jot">
-</p>
 <p align="center">
   <img src="https://github.com/ImtiazEpu/ulauncher-tailwindcss-extension/blob/master/icons/ulauncher.svg" alt="jot">
 </p>
+<p align="center ">
+  <img src="https://github.com/ImtiazEpu/ulauncher-tailwindcss-extension/blob/master/icons/tailwindcss-logo.svg" alt="jot">
+</p>
 
-#### Tailwind CSS Extension for  [Ulauncher - Application launcher for Linux](https://ulauncher.io/)
+
+## Tailwind CSS Extension for  [Ulauncher - Application launcher for Linux](https://ulauncher.io/)
 
 Ulauncher extension for quick access to the Tailwind CSS documentation.
 
