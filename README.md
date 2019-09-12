@@ -1,11 +1,11 @@
-<p align="center">
+<p align="center ">
   <img src="https://github.com/ImtiazEpu/ulauncher-tailwindcss-extension/blob/master/icons/tailwindcss-logo.svg" alt="jot">
 </p>
 <p align="center">
   <img src="https://github.com/ImtiazEpu/ulauncher-tailwindcss-extension/blob/master/icons/ulauncher.svg" alt="jot">
 </p>
 
-#####Tailwind CSS Extension for  [Ulauncher - Application launcher for Linux](https://ulauncher.io/)
+#Tailwind CSS Extension for  [Ulauncher - Application launcher for Linux](https://ulauncher.io/)
 
 Ulauncher extension for quick access to the Tailwind CSS documentation.
 
@@ -18,10 +18,7 @@ From there you can type the slug of the documentation page you want to read like
 
 ![Default Tailwind CSS Version](./screenshots/img2.png)
 
-######OR
 ![Default Tailwind CSS Version](./screenshots/img3.png)
-
-
 ##Requirement
 - [Ulauncher](https://ulauncher.io) version `v5.3.0~beta1 `
 - [Ulauncher API](http://docs.ulauncher.io/en/latest/) version `2.0.0`
